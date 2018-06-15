@@ -1,0 +1,40 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+url: http://sylvaindeschenes.github.io
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Site Settings
+title: Sylvain Deschenes
+description: "Empowers teams to efficiently deliver value and innovation"
+author: "Sylvain Deschenes"
+email: "contact@sylvaind.me"
+keywords: "project, operation, management, Agile, Scrum, Kanban, Lean, pmp, pspo, psm"
+# Goggle Analytics Seting - The fonction in located in _includes/js.html
+google-tracking-id:
+
+# Build settings
+markdown: kramdown
+# theme: minima
+#plugins:
+#  - jekyll-sitemap
+#  - jekyll-seo-tag
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown", "Gemfile", "Gemfile.lock"]
