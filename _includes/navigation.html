@@ -19,7 +19,7 @@
                     </li>
 
                     {% for page in site.pages | sort: "title" %}
-                    {% unless page.url == "/index.html" or page.url == "/" %}
+                    {% unless page.url == "/index.html" or page.url == "/" or page.url == "" %}
                     <li>
 											  <!-- {{ page.url }} -->
                         <a class="page-scroll" href="#{{ page.title }}">{{ page.title }}</a>
@@ -27,7 +27,7 @@
                     {% endunless %}
                     {% endfor %}
 										<li>
-											<a class="page-scroll" href="https://google.com">Test Page</a>
+											<a class="page-scroll" href="https://www.linkedin.com/in/sylvaind/">LinkedIn</a>
 										</li>
                 </ul>
             </div>
