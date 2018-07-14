@@ -37,4 +37,15 @@ plugins:
 # Default career thumbnail image.
 career-img: "img/timeline/default.jpg"
 
+## _layouts/compress.html settings
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: true
+  profile: false
+  startings: [html, head, body]
+
 exclude: ["Rakefile", "LICENSE", "readme.markdown", "Gemfile", "Gemfile.lock"]
