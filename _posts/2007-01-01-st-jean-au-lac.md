@@ -6,5 +6,5 @@ image: "img/timeline/st-jean-au-lac.jpg"
 ---
 12 000 Visitors  
 June 23
-Lac St-Jean, Métabetchouan  
+Lac St-Jean, Metabetchouan  
 Headliners:  Malajubes, Mononc'Serge, Galaxie 500

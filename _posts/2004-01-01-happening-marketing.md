@@ -6,4 +6,4 @@ image: "img/timeline/happening-marketing.jpg"
 ---
 400 Guest from 12 Universities  
 March 19th to 21st  
-UQAC & Hôtel Saguenéenne Chicoutimi
+UQAC & Hotel Sagueneenne Chicoutimi
