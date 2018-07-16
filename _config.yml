@@ -24,7 +24,7 @@ author: "Sylvain Deschenes"
 email: "contact@sylvaind.me"
 keywords: "project, operation, management, Agile, Scrum, Kanban, Lean, pmp, pspo, psm"
 # Goggle Analytics Seting - The fonction in located in _includes/js.html
-google-tracking-id:
+google-tracking-id: UA-122302872-1
 
 # Build settings
 markdown: kramdown
