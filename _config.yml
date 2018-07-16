@@ -33,11 +33,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Career Settings
-# Default career thumbnail image.
+# Timeline Settings / Default career thumbnail image.
 career-img: "img/timeline/default.jpg"
 
-## _layouts/compress.html settings
+# _layouts/compress.html settings
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
