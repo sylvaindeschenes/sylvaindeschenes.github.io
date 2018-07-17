@@ -48,3 +48,5 @@ compress_html:
   startings: [html, head, body]
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown", "Gemfile", "Gemfile.lock"]
+
+# include: ['.htaccess']
