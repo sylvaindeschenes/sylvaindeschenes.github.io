@@ -1,0 +1,33 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+	{% include head.html %}
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+	
+  <div class="content-page">
+      {{ content }}
+  </main>
+
+	{% include navigation-page.html %}
+
+    <!-- Custom Fonts -->
+    <link href="{{ site.baseurl }}/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+		<link href="//fonts.googleapis.com/css?family=Gaegu:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+	{% include footer.html %}
+	{% include js.html %}
+	
+	<!-- Include New window fix from JekyllCodex.org -->
+	{% include new-window-fix.html %}
+	
+	<!-- Include Cookie Consent Banner from JekyllCodex.org -->
+	{% include cookie-consent.html %}
+
+</body>
+</html>

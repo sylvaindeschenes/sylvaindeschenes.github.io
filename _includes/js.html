@@ -9,15 +9,8 @@
 
     <!-- Custom Theme JavaScript -->
     <script async src="{{ site.baseurl }}/js/grayscale.js"></script>
-
-    {% if site.google-tracking-id %}
+		
+		{% if site.google-tracking-id %}
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google-tracking-id }}"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-			
-			gtag('config', '{{ site.google-tracking-id }}');
-		</script>
-    {% endif %}
+		{% endif %}

@@ -5,7 +5,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">
+                <a class="navbar-brand page-scroll" href="{{site.url}}">
                     <i><img src="/img/sylvain-deschenes-rubik-logo.png" alt="sylvain deschenes | agile scrum kanban lean" alt="sylvain deschenes agile scrum kanban lean project" title="Sylvain Deschenes | Agile Scrum Kanban Lean" style="width:30px;height:30px;"></i> {{ site.titlemenu }}
                 </a>
             </div>
@@ -22,7 +22,7 @@
                     {% unless page.url == "/assets/css/style.css" or page.url == "/robots.txt" or page.url == "/sitemap.xml" or page.url == "/index.html" or page.url == "/" or page.url == "/privacy-policy.html" %}
                     <li>
 											  <!-- {{ page.url }} -->
-                        <a class="page-scroll" href="#{{ page.title }}">{{ page.title }}</a>
+                        <a class="page-scroll" href="{{site.url}}/#{{ page.title }}" target= "_self" >{{ page.title }}</a>
                     </li>
                     {% endunless %}
                     {% endfor %}
