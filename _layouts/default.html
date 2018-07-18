@@ -10,7 +10,6 @@ layout: compress
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-	{% include navigation.html %}
 	{% include header.html %}
 
   {% for page in site.pages %}
@@ -97,6 +96,8 @@ layout: compress
       </section>
     {% endif %}
   {% endfor %}
+	
+	{% include navigation.html %}
 
     <!-- Custom CSS -->
     <link href="{{ site.baseurl }}/css/timeline.css" rel="stylesheet">
