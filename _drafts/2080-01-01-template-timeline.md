@@ -1,7 +1,10 @@
 ---
 layout: null
-title: 2015 - 2017
-subtitle: IT Project Manager - FactoLove Inc. - Canada
+sitemap: false
+title: 2010 - 2020
+subtitle: Position Title - Company Name - Country
 image: "img/timeline/default.jpg"
+image-alt: "default name"
+image-title: "Default Name"
 ---
-[Hyuna.bb](http://hyuna.bb) 
+[Liens](http://sylvaind.me) 
