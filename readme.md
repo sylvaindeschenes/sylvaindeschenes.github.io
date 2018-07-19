@@ -1,10 +1,12 @@
-# Credits and friends...
-  
-## Welcome to my personal website  
+---
+layout: page
+title: Credits
+---
+## Welcome to Sylvain Deschenes personal website  
 
 ### This website is made by myself with love on Jekyll and hosted for free on Gihthub Pages 
   
-**Disclaimer**: I'm really not considering me as a coder but I've tried as much as possible to follow the web best practices.  
+**Disclaimer**: I'm really not considering myself as a coder but I've tried as much as possible to follow the web best practices.  
   
 The options I have chosen during the creation of this website have been based on the following:  
   
@@ -17,7 +19,7 @@ The options I have chosen during the creation of this website have been based on
   
 Current speed performances: Google PageSpeed 89/100, Pindom Website Speed Test: 94 grade, GTmetirx 95%
   
-Feel free to clone it and modify it at your wishes [Clone or download the code here](https://github.com/sylvaindeschenes/sylvaindeschenes.github.io)  
+Feel free to clone it and modify it at your wishes. [Clone or download the code here.](https://github.com/sylvaindeschenes/sylvaindeschenes.github.io)  
 
 ## Credits
 
@@ -47,8 +49,7 @@ Code released under the [Apache 2.0](https://github.com/kirbyt/timeline-jekyll-t
 Portions copyrighted by:  
 Copyright 2013-2015 Iron Summit Media Strategies, LLC.  
 Copyright 2014 Rick Kim (y7kim).  
-Copyright 2015 Kirby Turner.
-
+Copyright 2015 Kirby Turner.  
   
 ### Jekyll Codex  
 Feel free to use all code presented on this website. The code of the website itsself may also be used, as this website is a demo of the code it presents. However, respect the copyright of the used trademarks and the licenses of the open-source software used, as their rights belong to their respective owners. All images are CC0 images from Unsplash.
