@@ -19,7 +19,7 @@
                     </li>
 
                     {% for page in site.pages | sort: "title" %}
-                    {% unless page.url == "/assets/css/style.css" or page.url == "/robots.txt" or page.url == "/sitemap.xml" or page.url == "/index.html" or page.url == "/" or page.url == "/privacy-policy.html" or page.url == "/404.html" %}
+                    {% unless page.url == "/assets/css/style.css" or page.url == "/robots.txt" or page.url == "/sitemap.xml" or page.url == "/index.html" or page.url == "/" or page.url == "/privacy-policy.html" or page.url == "/404.html" or page.url == "/readme.html" %}
                     <li>
 											  <!-- {{ page.url }} -->
                         <a class="page-scroll" href="#{{ page.title }}">{{ page.title }}</a>

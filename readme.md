@@ -4,7 +4,7 @@ title: Credits
 ---
 ## Welcome to Sylvain Deschenes personal website  
 
-### This website is made by myself with love on Jekyll and hosted for free on Gihthub Pages 
+This website is made by myself with love on Jekyll and hosted for free on Gihthub Pages 
   
 **Disclaimer**: I'm really not considering myself as a coder but I've tried as much as possible to follow the web best practices.  
   
@@ -17,6 +17,7 @@ The options I have chosen during the creation of this website have been based on
  - Fast: It must score as high as possible on [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights), [Pindom Website Speed Test](https://tools.pingdom.com) and [GTmetirx](https://gtmetrix.com).
  - Compliant: It must comply with the international and local laws, including best privacy practices.  
   
+  
 Current speed performances: Google PageSpeed 89/100, Pindom Website Speed Test: 94 grade, GTmetirx 95%
   
 Feel free to clone it and modify it at your wishes. [Clone or download the code here.](https://github.com/sylvaindeschenes/sylvaindeschenes.github.io)  
@@ -25,14 +26,14 @@ Feel free to clone it and modify it at your wishes. [Clone or download the code 
 
 ### Timeline Jekyll Theme
 
-Timeline is multipurpose, single page Jekyll theme that includes a timeline section. 
-
+Timeline is multipurpose, single page Jekyll theme that includes a timeline section.
 - [Demo site](http://kirbyt.github.io/timeline-jekyll-theme)
 - [kirbyturner.com](http://www.kirbyturner.com)
 
-This theme is a mashup of two other themes:  
+This theme is a mashup of two other themes:
 - [Grayscale by Start Bootstrap](https://jeromelachaud.github.io/grayscale-theme/)
 - [Agency Jekyll Theme](https://y7kim.github.io/agency-jekyll-theme/)  
+  
   
 ### Jekyll Codex - Whithout pluggins
 
