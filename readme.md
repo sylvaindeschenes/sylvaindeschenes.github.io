@@ -2,7 +2,7 @@
   
 ## Welcome to my personal website  
 
-###This website is made by myself with love on Jekyll and hosted for free on Gihthub Pages 
+### This website is made by myself with love on Jekyll and hosted for free on Gihthub Pages 
   
 **Disclaimer**: I'm really not considering me as a coder but I've tried as much as possible to follow the web best practices.  
   
