@@ -17,7 +17,7 @@ The options I have chosen during the creation of this website have been based on
   
 Current speed performances: Google PageSpeed 89/100, Pindom Website Speed Test: 94 grade, GTmetirx 95%
   
-Feel free to clone it and modify it at your wish  
+Feel free to clone it and modify it at your wishes  
   
 # Credits, Licenses & Copyrights
 
