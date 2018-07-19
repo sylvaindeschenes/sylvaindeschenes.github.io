@@ -5,7 +5,7 @@ title: Welcome Credits Licenses Copyrights
 # Credits and friends...  
 ## Welcome to the Backstage of My Personal Website!
 
-This website is made by myself with love on Jekyll and hosted for free on Gihthub Pages. 
+This website is made by myself with love on [Jekyll](https://jekyllrb.com), hosted for free on [Gihthub Pages](https://pages.github.com) and served over [Cloudflare](https://www.cloudflare.com). 
   
 **Disclaimer**: I'm really not considering myself as a coder but I've tried as much as possible to follow the web best practices.  
   
