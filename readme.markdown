@@ -21,6 +21,7 @@ A website for front-end developers who want to learn Jekyll. [Jekyll Codex](http
 
 ### My code
 Code released under the [Apache 2.0](https://github.com/sylvaindeschenes/sylvaindeschenes.github.io/LICENSE).
+Portions copyrighted: Copyright 2018 Sylvain Deschenes.
 
 ### Timeline Jekyll Theme
 Code released under the [Apache 2.0](https://github.com/kirbyt/timeline-jekyll-theme/blob/master/LICENSE).
