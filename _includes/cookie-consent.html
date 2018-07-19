@@ -33,6 +33,7 @@
     if(readCookie('cookie-notice-dismissed')=='true') {
         /* Include to allow the following cookies */
 			  {% include ga.html %}
+				location.reload();
     } else {
         $('#cookie-notice').show();
     }
