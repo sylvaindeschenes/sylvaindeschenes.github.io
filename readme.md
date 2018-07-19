@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Credits
+title: Welcome Credits Licenses Copyrights
 ---
-## Welcome to Sylvain Deschenes personal website  
+# Credits and friends...  
+### Welcome to the Backstage of My Personal Website!
 
 This website is made by myself with love on Jekyll and hosted for free on Gihthub Pages 
   
@@ -26,18 +27,19 @@ Feel free to clone it and modify it at your wishes. [Clone or download the code 
 
 ### Timeline Jekyll Theme
 
-Timeline is multipurpose, single page Jekyll theme that includes a timeline section.
-- [Demo site](http://kirbyt.github.io/timeline-jekyll-theme)
-- [kirbyturner.com](http://www.kirbyturner.com)
-
-This theme is a mashup of two other themes:
-- [Grayscale by Start Bootstrap](https://jeromelachaud.github.io/grayscale-theme/)
-- [Agency Jekyll Theme](https://y7kim.github.io/agency-jekyll-theme/)  
+Timeline is multipurpose, single page Jekyll theme that includes a timeline section.  
+[Demo site](http://kirbyt.github.io/timeline-jekyll-theme)  
+[kirbyturner.com](http://www.kirbyturner.com)  
+  
+This theme is a mashup of two other themes:  
+[Grayscale by Start Bootstrap](https://jeromelachaud.github.io/grayscale-theme/)  
+[Agency Jekyll Theme](https://y7kim.github.io/agency-jekyll-theme/)  
   
   
 ### Jekyll Codex - Whithout pluggins
 
-A website for front-end developers who want to learn Jekyll. [Jekyll Codex](https://jekyllcodex.org)
+A website for front-end developers who want to learn Jekyll.  
+[Jekyll Codex](https://jekyllcodex.org)  
 
 ## Licenses & Copyrights
 
