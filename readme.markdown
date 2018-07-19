@@ -17,6 +17,7 @@ A website for front-end developers who want to learn Jekyll. [Jekyll Codex](http
 
 # Licenses
 
+### My code
 Code released under the [Apache 2.0][license] license.
 [license](https://github.com/sylvaindeschenes/sylvaindeschenes.github.io/LICENSE)
 
