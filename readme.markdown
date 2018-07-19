@@ -1,6 +1,8 @@
 # Welcome to my personal website Github repo
   
-This code can be seen live at [sylvaind.me](https://sylvaind.me). My personal website is made with love on Jekyll. and hosted for free on Gihthub Pages.  
+This code can be seen live at [sylvaind.me](https://sylvaind.me).  
+  
+This website is made with love on Jekyll and hosted for free on Gihthub Pages.  
   
 Disclaimer: I'm really not considering myself as a coder but I've tried as much as possible to follow the web best practices.  
   
