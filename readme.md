@@ -3,7 +3,7 @@ layout: page
 title: Welcome Credits Licenses Copyrights
 ---
 # Credits and friends...  
-### Welcome to the Backstage of My Personal Website!
+## Welcome to the Backstage of My Personal Website!
 
 This website is made by myself with love on Jekyll and hosted for free on Gihthub Pages 
   
