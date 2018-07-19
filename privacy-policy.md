@@ -7,6 +7,8 @@ permalink: /privacy-policy/index.html
 
 ## How we process your data
 This website is powered by [Jekyll](https://jekyllrb.com), hosted on [Gihthub Pages](https://pages.github.com) and served over [Cloudflare](https://www.cloudflare.com).  
+
+Jekyll is a simple, blog-aware, static site generator. It automaticaly generate a website made entirely of static assets. Meanning, there is no data-base involved in serving the Website to the visitor (so no data can be stored at all on the Website server).  
   
 Github (like any hosting company) and Cloudflare (like any CDN and DNS company), can have full insight in visitor data, like connecting IP addresses, visited pages, etc. Note that Github and Cloudflare are not known to actively profile visitors. By using a VPN you can (try to) prevent this.  
   
