@@ -1,4 +1,4 @@
-# Credits Licenses and Special Thanks
+# Credits, Licenses & Copyrights
 
 ## Credits
 
@@ -17,14 +17,14 @@ This theme is a mashup of two other themes:
 
 A website for front-end developers who want to learn Jekyll. [Jekyll Codex](https://jekyllcodex.org)
 
-## Licenses
+## Licenses & Copyrights
 
 ### My code
-Code released under the [Apache 2.0](https://github.com/sylvaindeschenes/sylvaindeschenes.github.io/LICENSE).
-Portions copyrighted: Copyright 2018 Sylvain Deschenes.
+Code released under the [Apache 2.0](https://github.com/sylvaindeschenes/sylvaindeschenes.github.io/LICENSE).  
+Portions copyrighted: Copyright 2018 Sylvain Deschenes.  
 
 ### Timeline Jekyll Theme
-Code released under the [Apache 2.0](https://github.com/kirbyt/timeline-jekyll-theme/blob/master/LICENSE).
+Code released under the [Apache 2.0](https://github.com/kirbyt/timeline-jekyll-theme/blob/master/LICENSE).  
 Portions copyrighted by:  
 Copyright 2013-2015 Iron Summit Media Strategies, LLC.  
 Copyright 2014 Rick Kim (y7kim).  
