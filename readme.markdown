@@ -1,6 +1,8 @@
-# Credits and licenses
+# Credits Licenses and Special Thanks
 
-## Timeline Jekyll Theme
+## Credits
+
+### Timeline Jekyll Theme
 
 Timeline is multipurpose, single page Jekyll theme that includes a timeline section. 
 
@@ -8,14 +10,14 @@ Timeline is multipurpose, single page Jekyll theme that includes a timeline sect
 - [kirbyturner.com](http://www.kirbyturner.com)
 
 This theme is a mashup of two other themes:  
-- [Grayscale by Start Bootstrap](https://github.com/IronSummitMedia/startbootstrap-grayscale)
-- [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme)  
+- [Grayscale by Start Bootstrap](https://jeromelachaud.github.io/grayscale-theme/)
+- [Agency Jekyll Theme](https://y7kim.github.io/agency-jekyll-theme/)  
   
-## Jekyll Codex - Whithout pluggins
+### Jekyll Codex - Whithout pluggins
 
 A website for front-end developers who want to learn Jekyll. [Jekyll Codex](https://jekyllcodex.org)
 
-# Licenses
+## Licenses
 
 ### My code
 Code released under the [Apache 2.0][license] license.
