@@ -20,16 +20,15 @@ A website for front-end developers who want to learn Jekyll. [Jekyll Codex](http
 ## Licenses
 
 ### My code
-Code released under the [Apache 2.0][license] license.
-[license](https://github.com/sylvaindeschenes/sylvaindeschenes.github.io/LICENSE)
+Code released under the [Apache 2.0](https://github.com/sylvaindeschenes/sylvaindeschenes.github.io/LICENSE).
 
 ### Timeline Jekyll Theme
-Code released under the [Apache 2.0][license] license.
+Code released under the [Apache 2.0](https://github.com/kirbyt/timeline-jekyll-theme/blob/master/LICENSE).
 Portions copyrighted by:  
 Copyright 2013-2015 Iron Summit Media Strategies, LLC.  
 Copyright 2014 Rick Kim (y7kim).  
-Copyright 2015 Kirby Turner
-[license](https://github.com/kirbyt/timeline-jekyll-theme/blob/master/LICENSE)  
+Copyright 2015 Kirby Turner.
+
   
 ### Jekyll Codex  
 Feel free to use all code presented on this website. The code of the website itsself may also be used, as this website is a demo of the code it presents. However, respect the copyright of the used trademarks and the licenses of the open-source software used, as their rights belong to their respective owners. All images are CC0 images from Unsplash.
