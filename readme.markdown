@@ -1,3 +1,18 @@
+# https://sylvaind.me
+  
+This code can be seen live at [sylvaind.me](https://sylvaind.me). My personal website is made with love on Jekyll. and hosted for free on Gihthub Pages.  
+  
+Disclaimer: I'm really not considering myself as a coder but I've tried as much as possible to follow the web best practices.  
+  
+The options I have chosen during the creation of this website have been based on the following:  
+  
+ - Strong Open-Source Distributions: The tools and softwares have to be open-source and well suported by their development community.  
+ - Without Plugin: The Jekyll website has to keep its ability to be built (and hosted) by GitHub Pages (No disalowed plugin).  
+ - Free: The 3rd party services have to be free (at least for personal usage).  
+ - Simplicity: The simpliest way that follow the best standards and conventions.  
+  
+Feel free to clone it and modify it at your wish  
+  
 # Credits, Licenses & Copyrights
 
 ## Credits
