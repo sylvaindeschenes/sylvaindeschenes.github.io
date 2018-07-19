@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Welcome Credits Licenses Copyrights
+permalink: /credits/index.html
 ---
 # Credits and friends...  
 ## Welcome to the Backstage of My Personal Website!
