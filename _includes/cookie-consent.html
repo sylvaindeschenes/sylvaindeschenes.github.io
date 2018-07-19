@@ -40,6 +40,7 @@
         createCookie('cookie-notice-dismissed','true',31);
         $('#cookie-notice').hide();
 				{% include ga.html %}
-				location.reload();
+				gtag('event', 'cookie-consent', {'event_category': 'agreement'},{'event_callback':location.reload()});
+				
     });
 </script>

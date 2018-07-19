@@ -2,11 +2,6 @@
 layout: page
 title: Privacy Policy
 ---
-  
-  
-  
-  
-  
 # Privacy Policy
 
 ## How we process your data
