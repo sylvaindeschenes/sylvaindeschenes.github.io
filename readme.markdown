@@ -10,8 +10,12 @@ The options I have chosen during the creation of this website have been based on
   
  - Strong Open-Source Distributions: The tools and softwares have to be open-source and well suported by their development community.  
  - Without Plugin: The Jekyll website has to keep its ability to be built (and hosted) by GitHub Pages (No disalowed plugin).  
- - Free: The 3rd party services have to be free (at least for personal usage).  
+ - Free: The 3rd party services have to be at no cost (at least for personal usage).  
  - Simplicity: The simpliest way that follow the best standards and conventions.  
+ - Fast: It must score as high as possible on [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights), [Pindom Website Speed Test](https://tools.pingdom.com) and [GTmetirx](https://gtmetrix.com).
+ - Compliant: It must comply with the international and local laws, including best privacy practices.  
+  
+Current speed performances: Google PageSpeed 89/100, Pindom Website Speed Test: 94 grade, GTmetirx 95%
   
 Feel free to clone it and modify it at your wish  
   
