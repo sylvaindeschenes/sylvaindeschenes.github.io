@@ -1,10 +1,10 @@
-# Welcome to my personal website Github repo
+# Credits and friends...
   
-This code can be seen live at [sylvaind.me](https://sylvaind.me).  
+## Welcome to my personal website  
+
+###This website is made by myself with love on Jekyll and hosted for free on Gihthub Pages 
   
-This website is made with love on Jekyll and hosted for free on Gihthub Pages.  
-  
-**Disclaimer**: I'm really not considering myself as a coder but I've tried as much as possible to follow the web best practices.  
+**Disclaimer**: I'm really not considering me as a coder but I've tried as much as possible to follow the web best practices.  
   
 The options I have chosen during the creation of this website have been based on the following:  
   
@@ -17,9 +17,7 @@ The options I have chosen during the creation of this website have been based on
   
 Current speed performances: Google PageSpeed 89/100, Pindom Website Speed Test: 94 grade, GTmetirx 95%
   
-Feel free to clone it and modify it at your wishes  
-  
-# Credits, Licenses & Copyrights
+Feel free to clone it and modify it at your wishes [Clone or download the code here](https://github.com/sylvaindeschenes/sylvaindeschenes.github.io)  
 
 ## Credits
 
