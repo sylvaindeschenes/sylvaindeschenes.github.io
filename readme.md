@@ -41,7 +41,7 @@ A website for front-end developers who want to learn Jekyll.
   
 ### Images.weserv.nl - Image cache & resize proxy
 
-Our servers resize your image, cache it worldwide, and display it.  
+Resize your image, cache it worldwide, and display it.  
 [Image.weserv.nl](https://images.weserv.nl)  
   
 ## Licenses & Copyrights

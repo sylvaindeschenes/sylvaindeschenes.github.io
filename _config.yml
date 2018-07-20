@@ -16,7 +16,7 @@
 
 url: https://sylvaind.me
 baseurl: "" # the subpath of your site, e.g. /blog
-produrl: "sylvaind.me" # To get the prod links working local (e.g.: http://images.weserv.nl/?url={{ site.produrl }}/ )
+domain-name: "sylvaind.me" # To get the prod links working local (e.g.: http://images.weserv.nl/?url={{ site.produrl }}/ )
 
 # Set SEO Friendly URL for Blog Post
 # permalink: /blog/:title/
