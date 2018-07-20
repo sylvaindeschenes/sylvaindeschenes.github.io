@@ -41,7 +41,7 @@ plugins:
 
 # Timeline Settings / Default career thumbnail image.
 career-img: "img/timeline/default.jpg"
-begenning-career-img: "img/timeline/default.jpg"
+begenning-career-img: "img/timeline/sylvain-deschenes-profile.jpg"
 
 # _layouts/compress.html settings
 compress_html:
