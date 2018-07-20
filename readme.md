@@ -6,12 +6,10 @@ permalink: /credits/index.html
 # Credits and friends...  
 ## Welcome to the Backstage of My Personal Website!
 
-This website is made by myself with love, powered by [Jekyll](https://jekyllrb.com), hosted for free on [Gihthub Pages](https://pages.github.com) and served over [Cloudflare](https://www.cloudflare.com). 
-  
+This website is made by myself with love, powered by [Jekyll](https://jekyllrb.com), hosted for free on [Gihthub Pages](https://pages.github.com) and served over [Cloudflare](https://www.cloudflare.com).  
 **Disclaimer**: I'm really not considering myself as a coder but I've tried as much as possible to follow the web best practices.  
-  
-The options I have chosen during the creation of this website have been based on the following:  
-  
+The options I have chosen during the creation of this website have been based on the following:
+
  - Strong Open-Source Distributions: The tools and softwares have to be open-source and well suported by their development community.  
  - Without Plugin: The Jekyll website has to keep its ability to be built (and hosted) by GitHub Pages (No disalowed plugin).  
  - Free: The 3rd party services have to be at no cost (at least for personal usage).  
@@ -20,10 +18,9 @@ The options I have chosen during the creation of this website have been based on
  - Compliant: It must comply with the international and local laws, including best privacy practices.  
   
   
-Current speed performances: Google PageSpeed 89/100, Pindom Website Speed Test: 94 grade, GTmetirx 95%
-  
+Current speed performances: Google PageSpeed 89/100, Pindom Website Speed Test: 94 grade, GTmetirx 95%  
 Feel free to clone it and modify it at your wishes. [Clone or download the code here.](https://github.com/sylvaindeschenes/sylvaindeschenes.github.io)  
-
+  
 ## Credits
 
 ### Timeline Jekyll Theme
@@ -41,7 +38,12 @@ This theme is a mashup of two other themes:
 
 A website for front-end developers who want to learn Jekyll.  
 [Jekyll Codex](https://jekyllcodex.org)  
+  
+### Images.weserv.nl - Image cache & resize proxy
 
+Our servers resize your image, cache it worldwide, and display it.  
+[Image.weserv.nl](https://images.weserv.nl)  
+  
 ## Licenses & Copyrights
 
 ### My code
@@ -56,4 +58,4 @@ Copyright 2014 Rick Kim (y7kim).
 Copyright 2015 Kirby Turner.  
   
 ### Jekyll Codex  
-Feel free to use all code presented on this website. The code of the website itsself may also be used, as this website is a demo of the code it presents. However, respect the copyright of the used trademarks and the licenses of the open-source software used, as their rights belong to their respective owners. All images are CC0 images from Unsplash.
+Feel free to use all code presented on Jekyll Codex website. The code of the website itsself may also be used, as this website is a demo of the code it presents. However, respect the copyright of the used trademarks and the licenses of the open-source software used, as their rights belong to their respective owners.

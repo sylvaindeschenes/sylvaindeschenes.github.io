@@ -16,6 +16,7 @@
 
 url: https://sylvaind.me
 baseurl: "" # the subpath of your site, e.g. /blog
+produrl: "sylvaind.me" # To get the prod links working local (e.g.: http://images.weserv.nl/?url={{ site.produrl }}/ )
 
 # Set SEO Friendly URL for Blog Post
 # permalink: /blog/:title/
@@ -40,6 +41,7 @@ plugins:
 
 # Timeline Settings / Default career thumbnail image.
 career-img: "img/timeline/default.jpg"
+begenning-career-img: "img/timeline/default.jpg"
 
 # _layouts/compress.html settings
 compress_html:

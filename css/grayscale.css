@@ -29,7 +29,7 @@ a:focus{text-decoration:none;color:#007acc;}
 .top-nav-collapse{padding:0;background-color:#000;}
 .navbar-custom.top-nav-collapse{border-bottom:1px solid rgba(255,255,255,.3);}
 }
-.intro{display:table;width:100%;height:auto;padding:100px 0;text-align:center;color:#fff;background:url(../img/sylvain-deschenes-intro.jpg) no-repeat bottom center scroll;background-color:#000;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;}
+.intro{display:table;width:100%;height:auto;padding:100px 0;text-align:center;color:#fff;background:url(https://images.weserv.nl/?url=sylvaind.me/img/sylvain-deschenes-intro.jpg&w=3264&h=2448&output=jpg) no-repeat bottom center scroll;background-color:#000;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;}
 .intro .intro-body{display:table-cell;vertical-align:middle;}
 .intro .intro-body .brand-heading{font-size:40px;}
 .intro .intro-body .intro-text{font-size:18px;}
