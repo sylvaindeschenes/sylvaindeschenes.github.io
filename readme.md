@@ -59,4 +59,4 @@ Copyright 2015 Kirby Turner.
 ### Jekyll Codex  
 Feel free to use all code presented on Jekyll Codex website. The code of the website itsself may also be used, as this website is a demo of the code it presents. However, respect the copyright of the used trademarks and the licenses of the open-source software used, as their rights belong to their respective owners.
 
-{% include image-gallery.html folder="/img/galleries/" %} 
+{% include image-gallery-link.html folder="/img/galleries/" %}
