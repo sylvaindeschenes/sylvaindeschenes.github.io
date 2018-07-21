@@ -26,8 +26,7 @@ Feel free to clone it and modify it at your wishes. [Clone or download the code 
 ### Timeline Jekyll Theme
 
 Timeline is multipurpose, single page Jekyll theme that includes a timeline section.  
-[Demo site](http://kirbyt.github.io/timeline-jekyll-theme)  
-[kirbyturner.com](http://www.kirbyturner.com)  
+[Demo site](http://kirbyt.github.io/timeline-jekyll-theme) 
   
 This theme is a mashup of two other themes:  
 [Grayscale by Start Bootstrap](https://jeromelachaud.github.io/grayscale-theme/)  
@@ -59,3 +58,5 @@ Copyright 2015 Kirby Turner.
   
 ### Jekyll Codex  
 Feel free to use all code presented on Jekyll Codex website. The code of the website itsself may also be used, as this website is a demo of the code it presents. However, respect the copyright of the used trademarks and the licenses of the open-source software used, as their rights belong to their respective owners.
+
+{% include image-gallery.html folder="/img/galleries/" %} 
