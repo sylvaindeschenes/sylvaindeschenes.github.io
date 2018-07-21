@@ -38,10 +38,6 @@ This theme is a mashup of two other themes:
 A website for front-end developers who want to learn Jekyll.  
 [Jekyll Codex](https://jekyllcodex.org)  
   
-### Images.weserv.nl - Image cache & resize proxy
-
-Resize your image, cache it worldwide, and display it.  
-[Image.weserv.nl](https://images.weserv.nl)  
   
 ## Licenses & Copyrights
 
