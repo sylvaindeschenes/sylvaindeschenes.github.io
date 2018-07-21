@@ -68,7 +68,7 @@ layout: compress
 
                   <li class="{{ class }}">
                       <div class="timeline-image">
-                          <a {% if post.image-link %}href="{{ post.image-link }}{% else %}""{% endif %}"><img class="img-circle img-responsive" src="https://images.weserv.nl/?url={{ site.domain-name }}/{% if post.image %}{{ post.image }}{% else %}{{site.career-img}}{% endif %}&w=200&h=200&output=jpg&q=95" alt="{{ post.image-alt }}" title="{{ post.image-title }}"></a>
+                          <a {% if post.image-link %}href="{{ post.image-link }}{% else %}""{% endif %}"><img class="img-circle img-responsive" src="{{ site.url }}/{% if post.image %}{{ post.image }}{% else %}{{site.career-img}}{% endif %}" alt="{{ post.image-alt }}" title="{{ post.image-title }}" width="200" height="200"></a>
                       </div>
                       <div class="timeline-panel">
                           <div class="timeline-heading">
@@ -85,7 +85,7 @@ layout: compress
 
                   <li class="timeline-inverted">
                     <div class="timeline-image">
-											<img class="img-circle img-responsive" src="https://images.weserv.nl/?url={{ site.domain-name }}/{{ site.begenning-career-img }}&w=200&h=200&output=jpg&q=95" alt="sylvain deschenes photo" title="Sylvain Deschenes">
+											<img class="img-circle img-responsive" src="{{ site.url }}/{{ site.begenning-career-img }}" alt="sylvain deschenes photo" title="Sylvain Deschenes" width="200" height="200">
                     </div>
                   </li>
    
