@@ -39,6 +39,12 @@ A website for front-end developers who want to learn Jekyll.
 [Jekyll Codex](https://jekyllcodex.org)  
   
   
+### Brisk Forms
+
+Submit a form to an URL, and get the contents to your email. No account, no database, no scripting, and no cost.  
+[Brisk Form](http://briskforms.com)  
+  
+  
 ## Licenses & Copyrights
 
 ### My code
