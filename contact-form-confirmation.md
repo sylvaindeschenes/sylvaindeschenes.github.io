@@ -1,5 +1,6 @@
 ---
 layout: page
+sitemap: false
 title: Contact Form Submission Confirmation
 permalink: /contact-confirmation/index.html
 ---
