@@ -28,26 +28,27 @@ layout: compress
           <div class="row">
               <div class="col-lg-8 col-lg-offset-2">
                 {{ page.content | markdownify }}
-
-                {% if page.email %}
-                <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
-                {% endif %}
-								<!-- Contact form -->
-								<!--
-								  <form method="post" action="https://briskforms.com/go/2daf658923d74a4d7156ebc30a457c37">
-								    <input type="name" name="name" placeholder="Name" autocomplete="name" required><br/><br/>
-								    <input type="email" name="email" placeholder="Email" autocomplete="email" required><br/><br/>
-								    <textarea name="message" placeholder="Message" required></textarea><br/><br/>
-								    <button type="submit">Send</button>
-								  </form>
-								<br/>
-								<br/>
-								-->
                 <ul class="list-inline social-buttons">
                     {% for network in page.social %}
                     <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }} fa-fw"></i></a></li>
+										<br/>
+										<br/>
                     {% endfor %}
                 </ul>
+								{% if site.contact-form-handler %}
+								  {% if page.form %}
+										{% include form.html %}
+										<br/>
+									{% endif %}
+                {% elsif site.email %}
+                <p><a href="mailto:{{ page.email }}">{{ site.email }}</a></p>
+                {% endif %}
+                {% if site.address and site.address-map-url %}
+								<br/>
+                <p><a href="{{ site.address-map-url }}">{{ site.address }}</a></p>
+								{% elsif site.address %}
+                <p>{{ site.address }}</p>
+                {% endif %}
               </div>
           </div>
       </section>
@@ -115,6 +116,9 @@ layout: compress
 	
 	<!-- Include Lightbox from JekyllCodex.org -->
 	{% include lightbox.html %}
+	
+	<!-- Include Better-Forms from JekyllCodex.org -->
+	{% include better-forms.html %}
 	
 	<!-- Include Cookie Consent Banner from JekyllCodex.org -->
 	{% include cookie-consent.html %}

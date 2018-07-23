@@ -3,8 +3,31 @@ layout: null
 sitemap: false
 section-type: contact
 title: Contact
-email: contact@sylvaind.me
-
+form:
+  subject: Contact form submission from https://sylvaind.me
+  form_engine: briskforms
+  placeholders: true
+  fields: 
+    - name: fullname
+      input_type: name
+      placeholder: Name
+      required: true
+    - name: email
+      input_type: email
+      placeholder: Email
+      required: true
+    - name: message
+      input_type: textarea
+      placeholder: Message
+      required: true
+    - name: terms
+      input_type: checkbox
+      placeholder: I am a human sending a real message
+      required: true
+    - name: submit
+      input_type: submit
+      placeholder: Send message
+      required: true
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, etc.)
 social:
   - title: linkedin
@@ -14,4 +37,4 @@ social:
 ---
 ## Contact
 
-You can reach me using the email below
+You can reach me using the form below

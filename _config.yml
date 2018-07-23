@@ -14,23 +14,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# Site Domain and URL
 url: https://sylvaind.me
 baseurl: "" # the subpath of your site, e.g. /blog
 domain-name: "sylvaind.me" # To get the prod links working local (e.g.: http://images.weserv.nl/?url={{ site.produrl }}/ )
-
-# Set SEO Friendly URL for Blog Post
-# permalink: /blog/:title/
-permalink: /career/:year/:title/
-
-# Site Settings
+# Site Info
 title: "Sylvain Deschenes | Agile Scrum Kanban Lean"
 titlemenu: "Sylvain Deschenes"
 description: "Empowers teams to efficiently deliver value and innovation"
 author: "Sylvain Deschenes"
-email: "contact@sylvaind.me"
 keywords: "project, operation, management, coach, master, agile, scrum, kanban, lean, pmp, pspo, psm"
-# Goggle Analytics Seting - The fonction in located in _includes/js.html
+
+# SEO Friendly URL for Blog Post (or Timeline entry)
+# permalink: /blog/:title/
+permalink: /career/:year/:title/
+
+# Goggle Analytics Seting - The code is located in _includes/js.html and _includes/cookie-consent.html
 google-tracking-id: UA-122302872-1
+
+# Timeline Section Settings / Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
+begenning-career-img: "img/timeline/sylvain-deschenes-profile.jpg"
+
+# Contact Section Settings - The code is located in _layoutd/default.html
+email: "contact@sylvaind.me"
+address: "Enterprise, Christ Church, Barbados"
+address-map-url: "https://goo.gl/maps/ftY5fRDTHx42"
+# Contact form handler - The code is located in _includes/contact-form.html
+contact-form-handler: "https://www.briskforms.com/go/0340497525801aac6f7824b63d103385"
 
 # Build settings
 markdown: kramdown
@@ -38,10 +49,7 @@ theme: null
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-
-# Timeline Settings / Default career thumbnail image.
-career-img: "img/timeline/default.jpg"
-begenning-career-img: "img/timeline/sylvain-deschenes-profile.jpg"
+exclude: ["Rakefile", "LICENSE", "readme.markdown", "Gemfile", "Gemfile.lock"]
 
 # _layouts/compress.html settings
 compress_html:
@@ -53,5 +61,3 @@ compress_html:
   blanklines: false # Set to true for debug
   profile: false
   startings: [html, head, body]
-
-exclude: ["Rakefile", "LICENSE", "readme.markdown", "Gemfile", "Gemfile.lock"]
