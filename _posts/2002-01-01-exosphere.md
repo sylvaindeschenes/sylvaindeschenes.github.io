@@ -6,7 +6,7 @@ image: "img/timeline/exosphere.jpg"
 image-alt: "production exosphere"
 image-title: "Production Exosphere"
 ---
-##### Co-Founder - Productions Exosphère - Canada
+##### CEO & Co-Founder - Productions Exosphère - Canada
 Main Event: Exclamation!  
 2 200 Attendees  
 November 9th 2002  
