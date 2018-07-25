@@ -6,13 +6,13 @@ permalink: /credits/index.html
 # Credits and friends...  
 ## Welcome to the Backstage of My Personal Website!
 
-This website is made by myself with love, powered by [Jekyll](https://jekyllrb.com), hosted for free on [Gihthub Pages](https://pages.github.com) and served over [Cloudflare](https://www.cloudflare.com).  
+This website is made by myself with love, powered by [Jekyll](https://jekyllrb.com), hosted on [Gihthub Pages](https://pages.github.com) and served over [Cloudflare](https://www.cloudflare.com).  
 **Disclaimer**: I'm really not considering myself as a coder but I've tried as much as possible to follow the web best practices.  
 The options I have chosen during the creation of this website have been based on the following:
 
  - Strong Open-Source Distributions: The tools and softwares have to be open-source and well suported by their development community.  
  - Without Plugin: The Jekyll website has to keep its ability to be built (and hosted) by GitHub Pages (No disalowed plugin).  
- - Free: The 3rd party services have to be at no cost (at least for personal usage).  
+ - Free: The site, its hosting and all 3rd party services have to be at no cost (at least for personal usage).  
  - Simplicity: The simpliest way that follow the best standards and conventions.  
  - Fast: It must score as high as possible on [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights), [Pindom Website Speed Test](https://tools.pingdom.com) and [GTmetirx](https://gtmetrix.com).
  - Compliant: It must comply with the international and local laws, including best privacy practices.  
@@ -33,9 +33,9 @@ This theme is a mashup of two other themes:
 [Agency Jekyll Theme](https://y7kim.github.io/agency-jekyll-theme/)  
   
   
-### Jekyll Codex - Whithout pluggins
+### Jekyll Codex
 
-A website for front-end developers who want to learn Jekyll.  
+A website for front-end developers who want to learn Jekyll. 
 [Jekyll Codex](https://jekyllcodex.org)  
   
   
@@ -61,4 +61,5 @@ Copyright 2015 Kirby Turner.
 ### Jekyll Codex  
 Feel free to use all code presented on Jekyll Codex website. The code of the website itsself may also be used, as this website is a demo of the code it presents. However, respect the copyright of the used trademarks and the licenses of the open-source software used, as their rights belong to their respective owners.
 
+For test purpose:  
 {% include image-gallery-link.html folder="/img/galleries/" %}
