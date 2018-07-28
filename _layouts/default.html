@@ -106,8 +106,11 @@ layout: compress
 	
 	{% include navigation.html %}
 
-  <!-- Combined CSS (Custom, fonts, etc...) -->  
-	{% include combined-css.html %}	
+	<!-- Custom CSS -->
+  <link href="{{ site.baseurl }}/css/timeline.css" rel="stylesheet">
+	
+  <!-- Custom Fonts -->
+  <link href="{{ site.baseurl }}/css/fonts-combined.css" rel="stylesheet" type="text/css">
 
 	{% include footer.html %}
 	{% include js.html %}
