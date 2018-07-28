@@ -17,7 +17,7 @@
 {% elsif page.form.form_engine == 'formbucket' %}
     <form id="{{ page.url | slugify }}" class="form autofill" method="POST" action="{{ page.form.to }}">
 {% elsif page.form.form_engine == 'briskforms' %}
-    <form id="{{ page.url | slugify }}" class="form autofill" method="post" action="{{ site.contact-form-handler }}"">
+    <form id="{{ page.url | slugify }}-form" class="form autofill" method="post" action="{{ site.contact-form-handler }}">
 {% endif %}
 
     <input type="text" name="_gotcha" style="display:none" />
@@ -31,7 +31,7 @@
         <div class="row form-group">
             <div class="col-sm-12" style="padding: 0px 40px;">
                 <label {% if page.form.placeholders == true %}class="sr-only"{% endif %} for="{{ item.name }}">{{ item.placeholder }}{{ requiredstar }}</label>
-                <textarea name="{{ item.name }}" name="{{ item.name }}" id="{{ item.name }}" cols="30" rows="5" class="form-control" {% if page.form.placeholders == true %}placeholder="{{ item.placeholder }}{{ requiredstar }}"{% endif %} {{ requiredtext }}></textarea>
+                <textarea name="{{ item.name }}" id="{{ item.name }}" cols="30" rows="5" class="form-control" {% if page.form.placeholders == true %}placeholder="{{ item.placeholder }}{{ requiredstar }}"{% endif %} {{ requiredtext }}></textarea>
             </div>
         </div>
         {% elsif item.input_type == 'radio' %}
