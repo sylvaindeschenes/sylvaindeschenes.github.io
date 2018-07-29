@@ -18,7 +18,7 @@ The options I have chosen during the creation of this website have been based on
  - Compliant: It must comply with the international and local laws, including best privacy practices.  
   
   
-Current speed performances: Google PageSpeed 89/100, Pindom Website Speed Test: 94 grade, GTmetirx 95%  
+Current speed performances: Google PageSpeed 93/100, Pindom Website Speed Test: 95 grade, GTmetirx 98%  
 Feel free to clone it and modify it at your wishes. [Clone or download the code here.](https://github.com/sylvaindeschenes/sylvaindeschenes.github.io)  
   
 ## Credits
