@@ -15,3 +15,16 @@
 	{% endif %}
 {% endfor %}
 </div>
+
+<div>
+	{% for file in site.static_files %}
+		{% if file.path contains include.folder %}
+			{% if file.extname == '.jpg' or 
+			file.extname == '.jpeg' or 
+			file.extname == '.JPG' or 
+			file.extname == '.JPEG' %}
+			<a href="{{ file.path }}">Allo</a>
+		{% endif %}
+	{% endif %}
+{% endfor %}
+</div>
