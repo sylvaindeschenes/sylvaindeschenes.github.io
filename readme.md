@@ -6,20 +6,22 @@ permalink: /credits/index.html
 # Credits and friends...  
 ## Welcome to the Backstage of My Personal Website!
 
-This website is made by myself with love, powered by [Jekyll](https://jekyllrb.com), hosted on [Gihthub Pages](https://pages.github.com) and served over [Cloudflare](https://www.cloudflare.com).  
+This website is made by myself with love, powered by [Jekyll](https://jekyllrb.com), designed with [Boostrap](https://getbootstrap.com), hosted on [Gihthub Pages](https://pages.github.com) and served over [Cloudflare](https://www.cloudflare.com).  
 **Disclaimer**: I'm really not considering myself as a coder but I've tried as much as possible to follow the web best practices.  
 The options I have chosen during the creation of this website have been based on the following:
 
- - Strong Open-Source Distributions: The tools and softwares have to be open-source and well suported by their development community.  
- - Without Plugin: The Jekyll website has to keep its ability to be built (and hosted) by GitHub Pages (No disalowed plugin).  
  - Free: The site, its hosting and all 3rd party services have to be at no cost (at least for personal usage).  
- - Simplicity: The simpliest way that follow the best standards and conventions.  
- - Fast: It must score as high as possible on [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights), [Pindom Website Speed Test](https://tools.pingdom.com) and [GTmetirx](https://gtmetrix.com).
+ - Open-Source: The tools and softwares have to be strong open-source distribtions well suported by their development community.  
+ - Simple: The simpliest way that follow the best practices, standards and conventions.  
+ - Without Plugin: The Jekyll website has to keep its ability to be built (and hosted) by GitHub Pages (No disalowed plugin).  
+ - Fast: It must score as high as possible on the most popular web speed tests.
  - Compliant: It must comply with the international and local laws, including best privacy practices.  
   
-  
-Current speed performances:  
-Google PageSpeed 99/100 Mobile 95/100 Desktop, Pingdom Website Speed Test: 95 grade, GTmetirx 97%  
+Speed performances:  
+
+ - [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fsylvaind.me%2F): 99/100 Mobile 95/100 Desktop
+ - [Pindom Website Speed Test](https://tools.pingdom.com/#!/cYzTW0/https://sylvaind.me): 95 grade
+ - [GTmetirx](https://gtmetrix.com/reports/sylvaind.me/E5kdVdxH): 97%  
 
 Feel free to clone it and modify it at your wishes. [Clone or download the code here.](https://github.com/sylvaindeschenes/sylvaindeschenes.github.io)  
   
