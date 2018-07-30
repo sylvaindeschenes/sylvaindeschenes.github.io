@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Welcome Credits Licenses Copyrights
+title: Credits & Friends
 permalink: /credits/index.html
 ---
-# Credits and friends...  
+ 
 ## Welcome to the Backstage of My Personal Website!
 
 This website is made by myself with love, powered by [Jekyll](https://jekyllrb.com), designed with [Boostrap](https://getbootstrap.com), hosted on [Gihthub Pages](https://pages.github.com) and served over [Cloudflare](https://www.cloudflare.com).  
@@ -63,7 +63,4 @@ Copyright 2014 Rick Kim (y7kim).
 Copyright 2015 Kirby Turner.  
   
 ### Jekyll Codex  
-Feel free to use all code presented on Jekyll Codex website. The code of the website itsself may also be used, as this website is a demo of the code it presents. However, respect the copyright of the used trademarks and the licenses of the open-source software used, as their rights belong to their respective owners.
-
-For test purpose:  
-{% include image-gallery-link.html folder="/img/galleries/" %}
+Feel free to use all code presented on Jekyll Codex website. The code of the website itsself may also be used, as this website is a demo of the code it presents. However, respect the copyright of the used trademarks and the licenses of the open-source software used, as their rights belong to their respective owners.  

@@ -1,6 +1,6 @@
 <style>
     .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 15%;}
     .image-gallery a img {width: 100%; display: block;}
 </style>
 
@@ -12,7 +12,7 @@
 			file.extname == '.JPG' or 
 			file.extname == '.JPEG' %}
 			<a href="{{ file.path }}">
-				<img src="{{ file.path }}" />
+				<img src="//images.weserv.nl/?url={{ site.produrl }}/{{ file.path }}&w=300&output=jpg&q=50" />
 			</a>
 		{% endif %}
 	{% endif %}

@@ -22,7 +22,17 @@
                     </li>
 
                     {% for page in site.pages | sort: "title" %}
-                    {% unless page.url == "/assets/css/style.css" or page.url == "/robots.txt" or page.url == "/sitemap.xml" or page.url == "/404.html"  or page.url == "/index.html" or page.url == "/" or page.url == "/privacy-notice/index.html" or page.url == "/credits/index.html" or page.url == "/contact-confirmation/index.html" %}
+                    {% unless
+											page.url == "/robots.txt" or 
+											page.url == "/sitemap.xml" or 
+											page.url == "/404.html"  or 
+											page.url == "/index.html" or 
+											page.url == "/" or 
+											page.url == "/privacy-notice/index.html" or 
+											page.url == "/credits/index.html" or 
+											page.url == "/contact-confirmation/index.html" or 
+											page.url == "/career-galleries/2012/montreal-military-culture-festival/index.html" 
+										%}
                     <li>
 											  <!-- {{ page.url }} -->
                         <a class="page-scroll" href="#{{ page.title }}">{{ page.title }}</a>

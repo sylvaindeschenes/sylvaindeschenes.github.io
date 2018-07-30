@@ -5,7 +5,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                     <i class="fa fa-bars" border-radius:35px font-size:200px></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="{{site.url}}">
+                <a class="navbar-brand page-scroll" href="/">
                     <div>
 											<img src="{{ site.logo }}" alt="{{ site.logo-alt }}" title="{{ site.title }}" style="width:30px;height:30px;">
 										{{ site.titlemenu }}
@@ -22,7 +22,17 @@
                     </li>
 
                     {% for page in site.pages | sort: "title" %}
-                    {% unless page.url == "/assets/css/style.css" or page.url == "/robots.txt" or page.url == "/sitemap.xml" or page.url == "/404.html"  or page.url == "/index.html" or page.url == "/" or page.url == "/privacy-notice/index.html" or page.url == "/credits/index.html" or page.url == "/contact-confirmation/index.html" %}
+                    {% unless 
+											page.url == "/robots.txt" or 
+											page.url == "/sitemap.xml" or 
+											page.url == "/404.html"  or 
+											page.url == "/index.html" or 
+											page.url == "/" or 
+											page.url == "/privacy-notice/index.html" or 
+											page.url == "/credits/index.html" or 
+											page.url == "/contact-confirmation/index.html" or 
+											page.url == "/career-galleries/2012/montreal-military-culture-festival/index.html" 
+										%}
                     <li>
 											  <!-- {{ page.url }} -->
                         <a class="page-scroll" href="{{site.url}}/#{{ page.title }}" target= "_self" >{{ page.title }}</a>

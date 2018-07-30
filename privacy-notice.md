@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Privacy Policy
+title: Privacy Notice
 permalink: /privacy-notice/index.html
 ---
-# Privacy Notice
 
 This Privacy Notice provides detailed information about how we process your datsa, the types of cookies we use on this Site, why we use them and how to control them.
 
