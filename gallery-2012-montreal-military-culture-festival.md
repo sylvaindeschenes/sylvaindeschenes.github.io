@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: 2012 - Montreal Military Culture Festival
-permalink: /career-galleries/2012/montreal-military-culture-festival/index.html
+permalink: /portfolio/2012/montreal-military-culture-festival/index.html
 ---
 
 ## Director & Co-Founder
