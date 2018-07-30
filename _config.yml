@@ -66,6 +66,6 @@ compress_html:
   endings: all
   ignore:
     envs: [local]
-  blanklines: false # Set to true for debug
+  blanklines: true # Set to true for debug
   profile: false
   startings: [html, head, body]

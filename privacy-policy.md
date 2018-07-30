@@ -8,9 +8,9 @@ permalink: /privacy-notice/index.html
 This Privacy Notice provides detailed information about how we process your datsa, the types of cookies we use on this Site, why we use them and how to control them.
 
 As many jurisdictions require or recommend it, our Site:
-- Informs the users as to the Types of Cookies we use on this Site and Why
+- Informs the users as to the [Types of Cookies we use on this Site and Why](#types-of-cookies-we-use-on-this-site-and-why)
 - Obtains the consent of the users before the placement of certain cookies
-- Provide ability and inform the user on How you can control Cookies on this Site
+- Provide ability and inform the user on [How you can control Cookies on this Site](#how-you-can-control-cookies-on-this-site)
  
 **If you reject cookies, you may still use our Site, but your ability to use some features or areas of our Site may be limited.**
 
@@ -45,11 +45,13 @@ The __cfduid cookie is used to identify individual clients behind a shared IP ad
 
 ## How you can control Cookies on this Site
 
-You can remove your consentment for us to use cookies using this button:  COMMING SOON.
-  
-This willerase the Cookie consent cookie on your computer and stop updating the other cookies. To delete those cookies, use the information provided in the section below.
+You can remove your consentment for the cookies used on the Site by cliking the button bellow. This action will erase all the non critical cookies from the Site.  
 
-### How to control the use of Cookies at the individual browser level
+<a id="cookie-notice-decline" class="btn btn-default btn-sm">Revoke Consent & Delete Cookies</a> 
+  
+**If you reject cookies, you may still use our Site, but your ability to use some features or areas of our Site may be limited.**
+
+## How to control the use of Cookies at the individual browser level
 To learn more about how to control cookie settings through your browser:
 
 - [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) - Learn more about the “Private Browsing” setting and managing cookie settings.
@@ -60,14 +62,13 @@ To learn more about how to control cookie settings through your browser:
 If you want to learn more about cookies, or how to control, disable or delete them, please visit [http://www.aboutcookies.org](http://www.aboutcookies.org) for detailed guidance.  
 
 ## Subject to Change
-The content of this Cookie Notice is for your general information and use only. These cookies are subject to change without notice. You acknowledge that this information may contain inaccuracies or errors and is subject to change and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
+The content of this Privacy Notice is for your general information and use only. These cookies are subject to change without notice. You acknowledge that this information may contain inaccuracies or errors and is subject to change and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
 
 ## Update
-Please revisit this page to stay aware of any changes. Your continued use of this Site constitutes your agreement to this Cookie Notice and any future revisions.
-
- 
-**IF YOU ARE DISSATISFIED WITH THIS COOKIE NOTICE OR THE SITE, YOUR SOLE REMEDY IS TO CEASE USING THE SITE.**
-
-The data controller of your personal information is Sylvain Deschenes.
+Please revisit this page to stay aware of any changes. Your continued use of this Site constitutes your agreement to this Privacy Notice and any future revisions.
   
+## ---  
+**IF YOU ARE DISSATISFIED WITH THIS PRIVACY NOTICE OR THE SITE, YOUR SOLE REMEDY IS TO CEASE USING THE SITE.**  
+
+The data controller of your personal information is Sylvain Deschenes.  
 For further information about our privacy practices, please [Conact me](/#contact).
