@@ -49,6 +49,12 @@ Submit a form to an URL, and get the contents to your email. No account, no data
 [Brisk Form](http://briskforms.com)  
   
   
+### Image.weserv.nl
+
+An image cache & resize proxy. Their servers resize the image, cache it worldwide, and display it.  
+[Image.weserv.nl](https://images.weserv.nl)  
+  
+  
 ## Licenses & Copyrights
 
 ### My code
