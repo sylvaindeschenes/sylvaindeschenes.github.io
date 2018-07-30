@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: portfolio
 title: 2012 - Montreal Military Culture Festival
 permalink: /portfolio/2012/montreal-military-culture-festival/index.html
 ---
