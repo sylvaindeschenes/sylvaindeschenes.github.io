@@ -45,7 +45,7 @@ The __cfduid cookie is used to identify individual clients behind a shared IP ad
 
 ## How you can control Cookies on this Site
 
-You can remove your consentment for the cookies used on the Site by cliking the button bellow. This action will erase all the non critical cookies from the Site.  
+You can revoke your consent for the cookies used on the Site by cliking the button bellow. This action will erase all the non critical cookies from the Site.  
 
 <a id="cookie-notice-decline" class="btn btn-default btn-sm">Revoke Consent & Delete Cookies</a> 
   
