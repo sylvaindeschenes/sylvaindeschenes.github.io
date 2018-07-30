@@ -1,7 +1,23 @@
 <style>
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
+	#instafeed a img,
+	.image-gallery-index a img,
+	.image-gallery a img{
+		-webkit-filter: grayscale(100%) brightness(116%) contrast(83%) opacity(70%);
+		filter: grayscale(100%) brightness(116%) contrast(83%) opacity(70%);
+		-webkit-transition: all .3s ease;
+		-moz-transition: all .3s ease;
+		-o-transition: all .3s ease;
+		-ms-transition: all .3s ease;
+		transition: all .3s ease;
+	}
+	#instafeed a:hover img,
+	.image-gallery-index a:hover img,
+	.image-gallery a:hover img{-webkit-filter: grayscale(0%) brightness(100%) contrast(100%) opacity(100%); filter: grayscale(0%) brightness(100%) contrast(100%) opacity(100%);}
+    
+		.image-gallery {overflow: auto; margin-left: -1%!important;}
     .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 15%;}
     .image-gallery a img {width: 100%; display: block;}
+		
 </style>
 
 <p class="image-gallery">
@@ -12,10 +28,9 @@
 			file.extname == '.JPG' or 
 			file.extname == '.JPEG' %}
 			<a href="{{ file.path }}">
-				<img src="//images.weserv.nl/?url={{ site.produrl }}/{{ file.path }}&w=200&h=200&output=jpg&q=50&t=square" />
+				<img src="//images.weserv.nl/?url=ssl:{{ site.domain-name }}{{ file.path }}&w=200&h=200&output=jpg&q=60&t=square" />
 			</a>
 		{% endif %}
 	{% endif %}
 {% endfor %}
 </p>
-http://images.weserv.nl/?url=ssl:www.google.com/logos/logo.gif

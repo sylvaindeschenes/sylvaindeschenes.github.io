@@ -17,7 +17,7 @@
 # Site Domain and URL
 url: https://sylvaind.me
 baseurl: "" # the subpath of your site, e.g. /blog
-domain-name: "sylvaind.me" # To get the prod links working local (e.g.: http://images.weserv.nl/?url={{ site.produrl }}/ )
+domain-name: "sylvaind.me" # To get the prod links working local (e.g.: http://images.weserv.nl/?url={{ site.domain-name }}/ )
 # Site Info
 title: "Sylvain Deschenes | Agile Scrum Kanban Lean"
 titlemenu: "Sylvain Deschenes"
