@@ -28,7 +28,7 @@
 			file.extname == '.JPG' or 
 			file.extname == '.JPEG' %}
 			<a href="{{ file.path }}">
-				<img alt="{{ file.path }}" src="//images.weserv.nl/?url=ssl:{{ site.domain-name }}{{ file.path }}&w=300&h=300&output=jpg&q=85&t=square"/>
+				<img alt="{{ file.name }}" src="//images.weserv.nl/?url=ssl:{{ site.domain-name }}{{ file.path }}&w=300&h=300&output=jpg&q=85&t=square"/>
 			</a>
 		{% endif %}
 	{% endif %}
