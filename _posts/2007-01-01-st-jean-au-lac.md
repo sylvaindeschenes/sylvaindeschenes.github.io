@@ -8,7 +8,5 @@ image-title: "St-Jean au Lac 2007"
 image-link: "/portfolio/2007/st-jean-au-lac/"
 ---
 ##### Event Production Consultant - St-Jean au Lac - Canada
-12 000 Visitors  
-June 23  
-Lac St-Jean, Metabetchouan  
-Headliners:  Malajubes, Mononc'Serge, Galaxie 500
+Quebec National Day music event  
+12 000 Visitors

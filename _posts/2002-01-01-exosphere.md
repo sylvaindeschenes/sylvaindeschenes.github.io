@@ -8,7 +8,7 @@ image-title: "Production Exosphere"
 image-link: "/portfolio/2002/production-exosphere/"
 ---
 ##### CEO & Co-Founder - Productions Exosphère - Canada
-Main Event: Exclamation!  
-2 200 Attendees  
-November 9th 2002  
-Wharehouse Chicoutimi
+
+Electronic Music Events  
+Main production: Exclamation!  
+2 200 Attendees

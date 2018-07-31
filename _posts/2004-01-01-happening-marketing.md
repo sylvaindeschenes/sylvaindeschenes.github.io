@@ -8,7 +8,7 @@ image-title: "Happening Marketing 2004"
 image-link: "/portfolio/2004/happening-marketing/"
 ---
 ##### Vice-President - 12th Happening Marketing - Canada
-400 Guest from 12 Universities  
-March 19th to 21st  
-UQAC & Hotel Sagueneenne Chicoutimi  
+
+Academic, sport and social competitions
+400 Guests from 12 Universities  
 [refaec.tv/happening-marketing/](https://refaec.tv/happening-marketing/)
