@@ -14,7 +14,7 @@ layout: compress
     {{ content }}
 		<p>
 			<br/>
-		  <a href="/#Career" class="btn btn-default btn-sm">Return to Career</a>
+		  <a id=retur-to-career class="btn btn-default btn-sm">Return to Career</a>
 	  </p>
   </div>  
 
@@ -34,6 +34,14 @@ layout: compress
 	
 	<!-- Include Cookie Consent Banner from JekyllCodex.org -->
 	{% include cookie-consent.html %}
+	
+	<script>
+		
+		
+    $('#retur-to-career').click(function() {
+			history.go(-1);
+		});
+	</script>
 
 </body>
 </html>
