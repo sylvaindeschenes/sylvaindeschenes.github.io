@@ -70,4 +70,4 @@ Please revisit this page to stay aware of any changes. Your continued use of thi
 **IF YOU ARE DISSATISFIED WITH THIS PRIVACY NOTICE OR THE SITE, YOUR SOLE REMEDY IS TO CEASE USING THE SITE.**  
 
 The data controller of your personal information is Sylvain Deschenes.  
-For further information about our privacy practices, please [Conact me](/#contact).
+For further information about our privacy practices, please [Contact me](/#contact).

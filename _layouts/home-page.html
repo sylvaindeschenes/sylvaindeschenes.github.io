@@ -57,6 +57,7 @@ layout: compress
           <div class="row">
               <div class="col-lg-8 col-lg-offset-2">
                 {{ page.content | markdownify }}
+							</br>
                 <ul class="timeline">
                 {% for post in site.posts %}
                   {% assign loopindex = forloop.index | modulo: 2 %}
@@ -67,9 +68,12 @@ layout: compress
                   {% endcapture %}
 
                   <li class="{{ class }}">
-                      <div class="timeline-image">
-                          {% if post.image-link %} <a href="{{ post.image-link }}" ><img class="img-circle img-responsive" src="{{ site.url }}/{% if post.image %}{{ post.image }}{% else %}{{site.career-img}}{% endif %}" alt="{{ post.image-alt }}" title="{{ post.image-title }}" width="200" height="200"></a>
+                      
+                          {% if post.image-link %}
+													<div class="timeline-image-link">
+													<a href="{{ post.image-link }}" ><img class="img-circle img-responsive" src="{{ site.url }}/{% if post.image %}{{ post.image }}{% else %}{{site.career-img}}{% endif %}" alt="{{ post.image-alt }}" title="{{ post.image-title }}" width="200" height="200"></a>
 													{% else %}
+													<div class="timeline-image">
 													<img class="img-circle img-responsive" src="{{ site.url }}/{% if post.image %}{{ post.image }}{% else %}{{site.career-img}}{% endif %}" alt="{{ post.image-alt }}" title="{{ post.image-title }}" width="200" height="200">
 													{% endif %}
                       </div>
