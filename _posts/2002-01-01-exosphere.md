@@ -9,6 +9,5 @@ image-link: "/portfolio/2002/production-exosphere/"
 ---
 ##### CEO & Co-Founder - Productions Exosphère - Canada
 
-Electronic Music Events  
 Main production: Exclamation!  
 2 200 Attendees
