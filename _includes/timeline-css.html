@@ -75,11 +75,18 @@
 		    width: 80px;
 		    height: 80px;
 		    margin-left: 0;
-		    border: 7px solid #4db8ff;
+		    border: 7px solid #9ad7ff;
 		    border-radius: 100%;
 		    text-align: center;
 		    color: #fff;
 		    background-color: #f1f1f1;
+				
+		}
+		
+		#instafeed a:hover img,
+		.timeline>li .timeline-image-link a:hover img,
+		.image-gallery a:hover img{-webkit-filter: grayscale(100%) url(#monochrome) brightness(120%) contrast(100%) opacity(100%); 
+			filter:  grayscale(100%) url(#monochrome) brightness(120%) contrast(100%) opacity(100%);
 		}
 
 		.timeline>li .timeline-image h4 {
