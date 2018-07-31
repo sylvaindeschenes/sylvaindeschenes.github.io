@@ -57,7 +57,6 @@ layout: compress
           <div class="row">
               <div class="col-lg-8 col-lg-offset-2">
                 {{ page.content | markdownify }}
-							</br>
                 <ul class="timeline">
                 {% for post in site.posts %}
                   {% assign loopindex = forloop.index | modulo: 2 %}
