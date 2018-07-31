@@ -22,7 +22,7 @@
                     </li>
 
                     {% for page in site.pages | sort: "title" %}
-                    {% unless 
+                    {% unless
 											page.url == "/robots.txt" or 
 											page.url == "/sitemap.xml" or 
 											page.url == "/404.html"  or 
@@ -30,10 +30,13 @@
 											page.url == "/" or 
 											page.url == "/privacy-notice/index.html" or 
 											page.url == "/credits/index.html" or 
-											page.url == "/contact-confirmation/index.html" or 
-											page.url == "/portfolio/2012/montreal-military-culture-festival/index.html" or
+											page.url == "/contact-confirmation/index.html" or
+											page.url == "/portfolio/2002/production-exosphere/index.html" or
+											page.url == "/portfolio/2002/aiesec-chicoutimi/index.html" or
+											page.url == "/portfolio/2004/happening-marketing/index.html" or
+											page.url == "/portfolio/2007/st-jean-au-lac/index.html" or
 											page.url == "/portfolio/2011/saguenay-fringe-festival/index.html" or
-											page.url == "/portfolio/2007/st-jean-au-lac/index.html" 
+											page.url == "/portfolio/2012/montreal-military-culture-festival/index.html"
 										%}
                     <li>
 											  <!-- {{ page.url }} -->
