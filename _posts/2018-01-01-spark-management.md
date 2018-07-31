@@ -7,3 +7,5 @@ image-alt: "digital marketing"
 image-title: "Digital Marketing"
 ---
 ##### Chief Operations Officer - Spark Management International Inc. - Barbados
+
+Digital Marketing Agency
