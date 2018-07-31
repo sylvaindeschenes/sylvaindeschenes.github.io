@@ -10,7 +10,7 @@ permalink: /portfolio/2016/simplep/index.html
 
 Visual Translator for Parking Signs: Identifies legal parking spaces for the selected period of time as per your settings.  
 
-Includes: Street Parking Signs (Legal Parking Spaces, Parking Meters, Handicap Parking, Residential Parking Permits, Snow Removing) Notifications, Locating Your Vehicle.    
+Features: Street Parking Signs (Legal Parking Spaces, Parking Meters, Handicap Parking, Residential Parking Permits, Snow Removing) Notifications, Locating Your Vehicle.    
 
 API available allowing these features to be integrated into a pre-existing application or service.
 
