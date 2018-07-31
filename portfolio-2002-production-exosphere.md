@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: 2002 - Production Exosphere
+title: 2000 - 2002 - Production Exosphere
 permalink: /portfolio/2002/production-exosphere/index.html
 ---
 

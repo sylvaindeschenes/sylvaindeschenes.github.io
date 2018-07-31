@@ -8,4 +8,6 @@ permalink: /portfolio/2014/factolove/index.html
 
 Fact-Checking Community Web Platform  
 
+Developed on [Drupal](https://www.drupal.org)
+
  {% include image-gallery.html folder="/img/galleries/2014/factolove" %}
