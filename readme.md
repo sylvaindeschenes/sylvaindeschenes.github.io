@@ -7,7 +7,9 @@ permalink: /credits/index.html
 ## Welcome to the Backstage of My Personal Website!
 
 This website is made by myself with love, powered by [Jekyll](https://jekyllrb.com), designed with [Boostrap](https://getbootstrap.com), hosted on [Gihthub Pages](https://pages.github.com) and served over [Cloudflare](https://www.cloudflare.com).  
-**Disclaimer**: I'm really not considering myself as a coder but I've tried as much as possible to follow the web best practices.  
+
+**Disclaimer**: I'm really not considering myself as a coder nor a designer but I've tried as much as possible to follow the web best practices.  
+
 The options I have chosen during the creation of this website have been based on the following:
 
  - Free: The site, its hosting and all 3rd party services have to be at no cost (at least for personal usage).  
@@ -27,12 +29,16 @@ Feel free to clone it and modify it at your wishes. [Clone or download the code 
   
 ## Credits
 
+### Logo
+
+Special thanks to my friend [Ihor Svyrydenko](https://dribbble.com/snpac) for the design of my personal logo.  
+The logo is based on my initial and the Scrum cycle.
+
 ### Timeline Jekyll Theme
 
 Timeline is multipurpose, single page Jekyll theme that includes a timeline section.  
-[Demo site](http://kirbyt.github.io/timeline-jekyll-theme) 
-  
-This theme is a mashup of two other themes:  
+[Demo site](http://kirbyt.github.io/timeline-jekyll-theme)  
+Timeline Jekyll Theme is a mashup of two other themes:  
 [Grayscale by Start Bootstrap](https://jeromelachaud.github.io/grayscale-theme/)  
 [Agency Jekyll Theme](https://y7kim.github.io/agency-jekyll-theme/)  
   
