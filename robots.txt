@@ -1,0 +1,22 @@
+---
+layout: null
+permalink: robots.txt
+---
+Sitemap: {{ site.url }}/sitemap.xml
+{% assign noindexPages = site.pages | where: 'sitemap', false %}
+{% assign noindexDocuments = site.documents | where: 'sitemap', false %}
+User-agent: *
+{% if site.production != true %}
+  Disallow: /
+{% else %}
+  {% if noindexDocuments or noindexPages %}
+    {% for node in noindexPages %}
+      Disallow: {{ node.url }}
+    {% endfor %}
+    {% for node in noindexDocuments %}
+      Disallow: {{ node.url }}
+    {% endfor %}
+  {% else %}
+    Disallow:
+  {% endif %}
+{% endif %}

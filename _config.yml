@@ -58,6 +58,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 exclude: ["Rakefile", "LICENSE", "readme.markdown", "Gemfile", "Gemfile.lock"]
+production: true
 
 # _layouts/compress.html settings
 compress_html:
