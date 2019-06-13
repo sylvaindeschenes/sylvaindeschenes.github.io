@@ -4,7 +4,7 @@ title: Privacy Notice
 permalink: /privacy-notice/index.html
 ---
 
-This Privacy Notice provides detailed information about how we process your datsa, the types of cookies we use on this Site, why we use them and how to control them.
+This Privacy Notice provides detailed information about how we process your data, the types of cookies we use on this Site, why we use them and how to control them.
 
 As many jurisdictions require or recommend it, our Site:
 - Informs the users as to the [Types of Cookies we use on this Site and Why](#types-of-cookies-we-use-on-this-site-and-why)
