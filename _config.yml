@@ -46,8 +46,8 @@ begenning-career-img: "img/timeline/sylvain-deschenes-profile.jpg"
 
 # Contact Section Settings - The code is located in _layoutd/default.html
 email: "contact@sylvaind.me"
-address: "Enterprise, Christ Church, Barbados"
-address-map-url: "https://goo.gl/maps/ftY5fRDTHx42"
+address: "Saguenay, Quebec, Canada"
+address-map-url: "https://goo.gl/maps/LcFpJmGoTovBhajT8"
 # Contact form handler - The code is located in _includes/contact-form.html
 contact-form-handler: "https://www.briskforms.com/go/0340497525801aac6f7824b63d103385"
 
