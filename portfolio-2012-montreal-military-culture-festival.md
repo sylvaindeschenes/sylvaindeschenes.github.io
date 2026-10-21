@@ -13,6 +13,4 @@ Montreal Old Port, Quebec, Canada
 
 [Watch news coverage from 45eNord](https://www.youtube.com/watch?v=CDcXAJgAgps)
 
-<a href="https://www.youtube.com/watch?v=CDcXAJgAgps" target="_blank" rel="noopener noreferrer">Watch news coverage by 45eNord.ca</a>
-
  {% include image-gallery.html folder="/img/galleries/2012/montreal-military-culture-festival" %}
